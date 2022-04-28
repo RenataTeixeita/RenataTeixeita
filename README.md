@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Renata, sou desenvolvedora web full-stack!
-:foguete: Habilidades: JavaScript, React, Redux, Jest,  Docker, Node.js, Express.js, Typescript, MySQL, Sequelize, MongoDB, Mocha.
-:maleta: Ferramentas: VSCode, Trello, Vercel, Heroku, Figma, GitHub.
+🚀 Habilidades: JavaScript, React, Redux, Jest,  Docker, Node.js, Express.js, Typescript, MySQL, Sequelize, MongoDB, Mocha.
+
+💼: Ferramentas: VSCode, Trello, Vercel, Heroku, Figma, GitHub.
 <div align="center">
   <a href="https://github.com/RenataTeixeita">
   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=RenataTeixeita&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
