@@ -22,7 +22,6 @@
     <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  <img align="center" alt="Mocha" title="Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
 </div>
-  ##
 <div>
   <a href = "mailto:renatateixeira.est@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
